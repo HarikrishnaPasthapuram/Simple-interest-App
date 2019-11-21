@@ -2,6 +2,8 @@
 
 [![HitCount](http://hits.dwyl.io/HarikrishnaPasthapuram/Simple-interest-App.svg)](http://hits.dwyl.io/HarikrishnaPasthapuram/Simple-interest-App)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/74a2e0073eed444681a70e0532281afa)](https://www.codacy.com/manual/HarshCasper/Simple-interest-App_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/Simple-interest-App&amp;utm_campaign=Badge_Grade)
+
 
 An elegant and simplistic Simple Interest Calculator Application developed in Flutter using Dart Programming Language. 
 
