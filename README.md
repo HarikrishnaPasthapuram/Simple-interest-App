@@ -5,7 +5,7 @@
 
 An elegant and simplistic Simple Interest Calculator Application developed in Flutter using Dart Programming Language. 
 
-![image](https://github.com/HarikrishnaPasthapuram/Simple-interest-App/blob/master/images/Screenshot_20191120_140928_com.example.flutter_app1.jpg){:height="50%" width="50%"}
+![image](https://github.com/HarikrishnaPasthapuram/Simple-interest-App/blob/master/images/Screenshot_20191120_140928_com.example.flutter_app1.jpg)
 
 
 ## Getting Started
