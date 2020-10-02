@@ -1,4 +1,4 @@
-# Simple-interest-App
+# Simple Interest - An Amazing App
 
 [![HitCount](http://hits.dwyl.io/HarikrishnaPasthapuram/Simple-interest-App.svg)](http://hits.dwyl.io/HarikrishnaPasthapuram/Simple-interest-App)
 
